@@ -1,0 +1,21 @@
+checking_status: Status of existing checking account
+duration: Duration of loans in months
+credit_history: Type of credit history whether credits taken, paid back duly, delays or critical accounts
+purpose: purpose of taking the credit
+credit_amount: amount of credit taken
+savings_status: status of savings account/bond by amount of savings
+employment: present employment, in number of years
+instalment_commitment: instalment rate in percentage of disposable income
+personal status: sex and marital status data
+other_parties: other debtors / guarantors 
+residence_since: number of years since kick off of the residence of the country 
+property_magnitude: type of property that customers have such as car, house or others
+age: age of customers
+other_payment_plans: type of other payment plan
+housing: type of housing plan of customers whether own, rent, for free
+existing_credits: number of existing credit that customers have
+job: type of job that customers held
+num_dependents: how many dependents that customers have
+own_telephone: status of customers whether use his own telephone or not
+foreign_worker: status of customers whether are foreign worker or not
+class: credit class of customers whether good or bad.
