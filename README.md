@@ -1,12 +1,12 @@
 The aim of this project is to explore how various factors influence credit classification, with a focus on loan-related variables and borrower characteristics
-This is a group project, but the files attached only include my individual contributions which are focused on customer loan durations with their respective credit classes
+This is a group project, but the files attached only include my individual contributions which are focused on customer loan durations with their respective credit classes.
 
 Tools used:
 - R Studio
 - R Libraries (dplyr, ggplot2, etc.)
 - Prediction Models (random forest, regression, etc.)
 
-The following files are includeed in this repository:
+The following files are included in this repository:
 
 Assignment Guidelines.doc
 - rules and format of the project
